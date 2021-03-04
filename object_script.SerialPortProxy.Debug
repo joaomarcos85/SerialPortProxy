@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\debughandler.o
+./debug\mainwindow.o
+./debug\serialhandler.o
+./debug\serialhandlerprogwireless.o
+./debug\serialmonitor.o
+./debug\sysprop.o
+./debug\moc_mainwindow.o
+./debug\moc_serialhandler.o
+./debug\moc_serialhandlerprogwireless.o
+./debug\moc_serialmonitor.o
+);

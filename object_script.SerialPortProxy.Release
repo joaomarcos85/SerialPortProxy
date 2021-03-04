@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\debughandler.o
+./release\mainwindow.o
+./release\serialhandler.o
+./release\serialhandlerprogwireless.o
+./release\serialmonitor.o
+./release\sysprop.o
+./release\moc_mainwindow.o
+./release\moc_serialhandler.o
+./release\moc_serialhandlerprogwireless.o
+./release\moc_serialmonitor.o
+);
